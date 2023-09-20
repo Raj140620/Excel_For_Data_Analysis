@@ -1,2 +1,2 @@
-# Excel_For_Data_Analysis
-<img align="right" alt="Coding" width="500" src="Dashboard_Image.png">
+<h1 align="center">Excel_For_Data_Analysis ( RKB Store Sales Analysis ) </h1>
+<img align="center" alt="Coding"  src="Dashboard_Image.png">
